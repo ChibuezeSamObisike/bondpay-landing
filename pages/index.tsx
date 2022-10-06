@@ -12,7 +12,7 @@ export default function Home() {
       {/* <Navbar /> */}
       <div className='min-h-screen flex justify-around items-center p-4 flex-col sm:flex-row'>
         <div className='basis-1/3'>
-          <h1 className='text-6xl font-semibold leading-tight mb-4 text-center sm:text-left'>
+          <h1 className='text-4xl sm:text-6xl sm:leading-tight font-semibold leading-tight mb-4 text-center sm:text-left'>
             Crypto payment{" "}
             <span className='secondary-color-text'>Framework</span> built with
             love
